@@ -10,7 +10,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>org.elasticsearch</groupId>
+    <groupId>org.elasticsearch.maven</groupId>
     <artifactId>attached-artifact-enforcer</artifactId>
     <version>1.0-SNAPSHOT</version>
 
