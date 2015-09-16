@@ -12,7 +12,7 @@
 
     <groupId>org.elasticsearch.maven</groupId>
     <artifactId>attached-artifact-enforcer</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0-SNAPSHOT</version>
 
     <name>Attached Artifact Enforcer</name>
     <description>Enforcer rule for artifacts attached in a Maven project</description>
