@@ -15,9 +15,9 @@ In your pom.xml add the following:
                 <artifactId>maven-enforcer-plugin</artifactId>
                 <dependencies>
                     <dependency>
-                        <groupId>org.elasticsearch</groupId>
+                        <groupId>org.elasticsearch.maven</groupId>
                         <artifactId>attached-artifact-enforcer</artifactId>
-                        <version>1.0-SNAPSHOT</version>
+                        <version>1.0.0</version>
                     </dependency>
                 </dependencies>
                 <executions>
